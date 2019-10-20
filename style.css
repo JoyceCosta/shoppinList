@@ -1,0 +1,34 @@
+body {
+  background: linear-gradient(to bottom, #66ffcc 0%, #ccffcc 100%);
+ }
+
+ .corp {
+  background-image: url("https://i.pinimg.com/originals/6f/92/b1/6f92b17f92aabf135c20eb03c98a1eb6.png");
+  background-size: contain;
+  width: 300px;
+  height: 600px;
+  border: 8px solid red;
+  padding: 100px;
+  margin-left: 395px;
+ }
+
+.done {
+    text-decoration: line-through;
+  }
+
+  .zoomIn {
+    font: 50px 'Kalam', cursive;
+    text-decoration: underline;
+    color: green;
+    margin-top: 2px;
+  }
+
+  .first {
+     font: 25px 'Kalam', cursive;
+     color:#ff9900;
+  }
+
+  .cor {
+    font: 20px 'Kalam', cursive;
+    color: #0033cc;
+  }
